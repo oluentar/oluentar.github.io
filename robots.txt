@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oluentar.github.io/sitemap
+Sitemap: https://oluentar.github.io/app/sitemap
+Sitemap: https://oluentar.github.io/assets/sitemap
+Sitemap: https://oluentar.github.io/css/sitemap
+Sitemap: https://oluentar.github.io/includes/sitemap
+Sitemap: https://oluentar.github.io/item/sitemap
+Sitemap: https://oluentar.github.io/src/sitemap
